@@ -44,9 +44,9 @@ Yoshiki Obinata
 Soonhyo Kim  
 
 #### Staff members
-Iori Yanakura  
+Iori Yanokura  
 Shingo Kitagawa  
-Kento Kawaharzuka  
+Kento Kawaharazuka  
 
 ### Previous participation in RoboCup
 
