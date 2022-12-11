@@ -3,7 +3,7 @@ layout: default
 title: team JSK Web page
 ---
 
-# Robocup@Home2023's team JSK Web page
+# RoboCup@Home2023's team JSK Web page
 
 ## Robot
 
