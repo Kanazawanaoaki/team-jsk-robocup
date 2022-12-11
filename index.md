@@ -16,7 +16,7 @@ We will participate in OPL with two robots, HSR and AERO, customized with our ow
 
 | HSR | AERO |
 | -- | -- |
-| ![IMG_7521_crop](https://user-images.githubusercontent.com/38127823/206926553-aab0e839-a0c4-4029-b184-328016057b72.jpg) | ![IMG_7524_crop](https://user-images.githubusercontent.com/38127823/206926422-c34efc73-2fe3-4d1e-af9a-f50092f1f65c.jpg) |
+| <img src="https://user-images.githubusercontent.com/38127823/206926553-aab0e839-a0c4-4029-b184-328016057b72.jpg" width="320px"> | <img src="https://user-images.githubusercontent.com/38127823/206926422-c34efc73-2fe3-4d1e-af9a-f50092f1f65c.jpg" width="320px"> |
 
 
 ## Approaches
