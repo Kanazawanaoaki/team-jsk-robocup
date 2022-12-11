@@ -20,6 +20,8 @@ We will participate in OPL with two robots, HSR and AERO, customized with our ow
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEeuj7kDxW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{% include youtubePlayer.html id="yEeuj7kDxW8" %}
+
 ## Approaches
 
 ### Description of the approaches and information on scientific achievements
