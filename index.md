@@ -5,11 +5,6 @@ title: team JSK Web page
 
 # Robocup@Home2023's team JSK Web page
 
-## TODO
-The following need to be added
-
-* Videos of the robot(s)
-
 ## Robot
 
 We will participate in OPL with two robots, HSR and AERO, customized with our own sensor boards and other components.  
@@ -19,8 +14,6 @@ We will participate in OPL with two robots, HSR and AERO, customized with our ow
 | <img src="https://user-images.githubusercontent.com/38127823/206926553-aab0e839-a0c4-4029-b184-328016057b72.jpg" width="320px"> | <img src="https://user-images.githubusercontent.com/38127823/206926422-c34efc73-2fe3-4d1e-af9a-f50092f1f65c.jpg" width="320px"> |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEeuj7kDxW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-{% include youtubePlayer.html id="yEeuj7kDxW8" %}
 
 ## Approaches
 
