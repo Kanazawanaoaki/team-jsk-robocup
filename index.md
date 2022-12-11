@@ -12,11 +12,12 @@ The following need to be added
 
 ## Robot
 
-We will participate in OPL with two robots, HSR and AERO, customized with our own sensor boards and other components. Here is a description of each robot.
+We will participate in OPL with two robots, HSR and AERO, customized with our own sensor boards and other components.  
 
 | HSR | AERO |
 | -- | -- |
-|![HSRBJSK](https://user-images.githubusercontent.com/38127823/206924788-cba11e97-bba7-4f0d-9669-d5bb7027e790.jpg) | ![AERO](https://user-images.githubusercontent.com/38127823/206924812-11125d81-89e1-45ba-8db7-69b34e2cc9cc.jpg) |
+| ![IMG_7521_crop](https://user-images.githubusercontent.com/38127823/206926553-aab0e839-a0c4-4029-b184-328016057b72.jpg) | ![IMG_7524_crop](https://user-images.githubusercontent.com/38127823/206926422-c34efc73-2fe3-4d1e-af9a-f50092f1f65c.jpg) |
+
 
 ## Approaches
 
