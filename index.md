@@ -8,24 +8,15 @@ title: team JSK Web page
 ## TODO
 The following need to be added
 
-* Photos of the robot(s)
 * Videos of the robot(s)
-* Description of the approaches and information on scientific achievements
-* Relevant publications (last 5 years, preferably available to download)
-* Link to repositories with software for the community
-* Team members
-* Previous participation in RoboCup
-* Participation and rankings in local RoboCup tournaments
 
 ## Robot
 
 We will participate in OPL with two robots, HSR and AERO, customized with our own sensor boards and other components. Here is a description of each robot.
 
-![HSRBJSK](https://user-images.githubusercontent.com/38127823/206924788-cba11e97-bba7-4f0d-9669-d5bb7027e790.jpg)
-HSRB
-
-![AERO](https://user-images.githubusercontent.com/38127823/206924812-11125d81-89e1-45ba-8db7-69b34e2cc9cc.jpg)
-AERO
+| HSR | AERO |
+| -- | -- |
+|![HSRBJSK](https://user-images.githubusercontent.com/38127823/206924788-cba11e97-bba7-4f0d-9669-d5bb7027e790.jpg) | ![AERO](https://user-images.githubusercontent.com/38127823/206924812-11125d81-89e1-45ba-8db7-69b34e2cc9cc.jpg) |
 
 ## Approaches
 
